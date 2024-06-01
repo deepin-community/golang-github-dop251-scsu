@@ -1,5 +1,17 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-dop251-scsu (0.0~git20220106.84ac880-3) unstable; urgency=medium
 
-  * Initial release
+  * source upload for migration to testing
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Drew Parsons <dparsons@debian.org>  Wed, 07 Dec 2022 16:39:38 +0100
+
+golang-github-dop251-scsu (0.0~git20220106.84ac880-2) unstable; urgency=medium
+
+  * identify Unicode, Inc. as a copyright coauthor
+
+ -- Drew Parsons <dparsons@debian.org>  Sun, 27 Nov 2022 22:02:59 +0100
+
+golang-github-dop251-scsu (0.0~git20220106.84ac880-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1024572)
+
+ -- Drew Parsons <dparsons@debian.org>  Mon, 21 Nov 2022 17:04:44 +0100
